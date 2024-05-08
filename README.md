@@ -16,10 +16,6 @@ python conv.py [INPUT] [OUTPUT]
 
 ## 示例
 
-**转换前**:
+<a href="sample/before.txt">before.txt</a>
 
-![](sample/before.txt)
-
-**转换后**:
-
-![](sample/after.txt)
+<a href="sample/after.txt">after.txt</a>
